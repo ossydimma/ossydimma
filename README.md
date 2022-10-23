@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ossydimma
+- 👋 Hi, I’m @chrisjerry
 - 👀 I’m interested in software Engineering
-- 🌱 I’m currently learning software development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me c_ossy@yahoo.com
+- 🌱 I’m currently learning html,css,javascript and python
+- 💞️ I’m looking to collaborate on any new thing
+- 📫 How to reach me chrisjerry070@gmail.com
 
 <!---
 ossydimma/ossydimma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
