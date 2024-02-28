@@ -11,6 +11,7 @@ Tech Stack
 - 🌱 I’m currently working with NextJs and Typescript 
 - 💞️ I’m looking to collaborate on any new thing
 - 📫 How to reach me chrisjerry070@gmail.com
+- portfolio https://osita-portfolio.vercel.app
 
 
 <!---
