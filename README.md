@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Osita Chris Jerry
 - 👀 I’m a web developer 
-- 🌱 I’m currently front-end developer 
+- 🌱 I’m currently front end Engineer 
 - 💞️ I’m looking to collaborate on any new thing
 - 📫 How to reach me chrisjerry070@gmail.com
 
