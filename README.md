@@ -1,8 +1,8 @@
--  Hi👋, I’m Osita Chris Jerry
-- 👀 A front-end engineer
+- -  Hi👋, I’m Osita Chris Jerry
+- - 👀 A front-end engineer
 - - 🌱 I’m currently working with NextJs and Typescript 
-- 💞️ I’m looking to collaborate on any new thing
-- 📫 How to reach me chrisjerry070@gmail.com
+- - 💞️ I’m looking to collaborate on any new thing
+- - 📫 How to reach me chrisjerry070@gmail.com
 
 
 
