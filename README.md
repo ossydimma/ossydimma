@@ -9,7 +9,7 @@
 
 Tech Stack
 
-          JavaScript || Reactjs || Typescript  || Tailwind CSS 
+          JavaScript || Reactjs || Typescript  || Tailwind CSS || .Net || Asp.net web Api || Blazor 
 
 
 
